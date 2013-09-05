@@ -9,3 +9,13 @@ body {
 .row{
 	padding-top: 50px;
 }
+
+a.link{
+	margin: 20px 0;
+	display: block;
+}
+
+.byline{
+	margin-top: 20px;
+	font-size: 12px;
+}
